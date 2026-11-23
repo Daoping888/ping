@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://dl.kstore.dev/download/8618/XC/XC2.json",
+      "url": "https://dl.kstore.dev/download/8618/XC/LF.json",
       "name": "❤小翠专线"
     },
     {
